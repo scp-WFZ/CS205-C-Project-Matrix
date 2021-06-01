@@ -1,0 +1,3 @@
+/Users/zhongfantasty/CLionProjects/CS205Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhongfantasty/CLionProjects/CS205Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhongfantasty/CLionProjects/CS205Project/cmake-build-debug/CMakeFiles/CS205Project.dir
